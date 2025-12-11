@@ -13,7 +13,7 @@ This repository contains:
 
 ### View Resume
 - **[Download PDF](./resume.pdf)** - Latest compiled version
-- **[Overleaf Project](https://www.overleaf.com/project/693aaa7467cd65ad4e3b5f15)** - Edit and compile online
+- **[Overleaf Project](https://www.overleaf.com/read/cfvbpdjzznvj#8f8ffb)** - View and compile online
 
 ### Profile Links
 - **[LinkedIn](https://linkedin.com/in/insrawat/)** - Professional Profile
@@ -44,8 +44,8 @@ This repository contains:
 
 ## 🚀 How to Use This Template
 
-### Edit Online (Recommended)
-1. Visit the [Overleaf Project](https://www.overleaf.com/project/693aaa7467cd65ad4e3b5f15)
+### View Online (Recommended)
+1. Visit the [Overleaf Project](https://www.overleaf.com/read/cfvbpdjzznvj#8f8ffb)
 2. Make your changes directly in the LaTeX editor
 3. Download the compiled PDF
 
